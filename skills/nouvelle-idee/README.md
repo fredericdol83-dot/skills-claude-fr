@@ -1,6 +1,6 @@
 # nouvelle-idee
 
-Pour les personnes qui ont beaucoup d'idées et tendance à foncer. Dites « j'ai une idée » et Claude vous fait passer par huit phases : identifier le type d'idée, cadrer (avec un vrai cadrage UX si l'idée a une interface), challenger, choisir les outils les plus simples, fixer un seul objectif d'apprentissage, planifier un MVP en étapes de 30 minutes à 2 heures, livrer un kit de démarrage (BRIEF.md, CLAUDE.md, JOURNAL.md), puis faire une rétro.
+Pour les personnes qui ont beaucoup d'idées et tendance à foncer. Dites « j'ai une idée » et Claude vous fait passer par huit phases : identifier le type d'idée, cadrer (avec un vrai cadrage UX si l'idée a une interface), challenger avec quatre rôles (l'avocat, le procureur, le comptable et le juge qui tranche), choisir les outils les plus simples, fixer un seul objectif d'apprentissage, planifier un MVP en étapes de 30 minutes à 2 heures, livrer un kit de démarrage (BRIEF.md, CLAUDE.md, JOURNAL.md), puis faire une rétro.
 
 Ce qui la distingue : elle refuse de coder avant qu'une direction visuelle soit validée, et elle accepte « on met de côté » comme une bonne décision.
 
