@@ -42,13 +42,22 @@ Une fois le cadrage UX posé, et toujours avant toute ligne de code de l'applica
 - Vérifie chaque planche avant de la montrer (lisible sur mobile, contrastes suffisants, contenu réel, rien de générique).
 L'utilisateur choisit une direction, en combine deux, ou demande de nouvelles propositions (ce qui veut dire élargir le choix, pas un rejet). Itère jusqu'à une validation explicite. La direction validée est consignée dans le BRIEF.md et devient la référence de tout le projet.
 
-## Phase 3. Challenger
-En quelques phrases, sans complaisance :
-- Est-ce que ça existe déjà ? Une ou deux recherches au maximum, seulement si c'est utile.
-- Est-ce trop large ? Coupe.
-- Quel est le plus petit MVP qui prouve que l'idée vaut quelque chose, faisable en une ou deux sessions ?
-- Quel est le principal risque (technique, coût, usage, ou un design qui ne donne pas confiance) ?
-Termine par une décision que l'utilisateur prend : on y va, on met de côté, on abandonne. Mettre de côté est un bon résultat. Dans ce cas, résume l'idée en trois lignes qu'il pourra reprendre plus tard, et arrête-toi.
+## Phase 3. Challenger avec quatre rôles
+Tu joues quatre rôles, l'un après l'autre. N'adoucis aucun rôle pour être gentil avec l'utilisateur. Chaque rôle tient en quelques phrases.
+
+1. L'avocat. Défends l'idée du mieux possible, avec les meilleurs arguments.
+2. Le procureur. Essaie de la faire tomber. Qui ne l'utilisera pas, qui le fait déjà (gratuitement ou mieux), ce que l'utilisateur refuse de voir. Pour vérifier l'existant, une ou deux recherches au maximum, seulement si c'est utile. Signale aussi si l'idée est trop large.
+3. Le comptable. Regarde ce que coûte l'idée et ce qu'elle doit rapporter. S'il y a un enjeu financier, qui paierait, combien, à quelle vitesse, et le test le moins cher pour le savoir cette semaine. Dis clairement que tes chiffres sont des hypothèses. Si l'idée n'a pas de but commercial (apprentissage, vitrine, usage personnel ou service public), chiffre ce qu'elle coûte en temps et en abonnements et ce qu'elle doit apporter autrement.
+4. Le juge. Relis les trois. Ne garde que ce qui touche vraiment à la décision. Tranche en un mot : ON CONSTRUIT, ON CORRIGE D'ABORD ou ON ABANDONNE. Donne le plus gros risque (technique, coût, usage, ou un design qui ne donne pas confiance) et un test de dix minutes à faire avant d'écrire la moindre ligne. Si le verdict est ON CONSTRUIT, précise le plus petit MVP qui prouve que l'idée vaut quelque chose, faisable en une ou deux sessions.
+
+Termine par une note de cinq lignes à garder, une information par ligne :
+- la date ;
+- l'idée ;
+- le verdict ;
+- le plus gros risque ;
+- le test.
+
+Le verdict du juge est une recommandation, l'utilisateur décide. Il peut aussi mettre l'idée de côté, ce qui est un bon résultat. Dans ce cas, la note de cinq lignes suffit, arrête-toi. Si un projet est créé, cette note devient la première entrée du JOURNAL.md.
 
 ## Phase 4. Choisir l'approche et les outils
 Applique les règles de `references/outils.md`. Toujours l'option la plus simple qui marche, et la moins chère en tokens.

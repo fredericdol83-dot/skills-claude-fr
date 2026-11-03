@@ -8,7 +8,7 @@ Une skill est un fichier d'instructions que Claude lit quand votre demande s'y p
 
 | Dossier | À quoi ça sert |
 |---|---|
-| [skills/nouvelle-idee](skills/nouvelle-idee) | Passer d'une idée floue à un MVP testable. Cadrage, challenge honnête, choix des outils les plus simples, plan en petites étapes vérifiables. |
+| [skills/nouvelle-idee](skills/nouvelle-idee) | Passer d'une idée floue à un MVP testable. Cadrage, challenge par quatre rôles (avocat, procureur, comptable, juge), choix des outils les plus simples, plan en petites étapes vérifiables. |
 | [skills/studio-ebook-kdp](skills/studio-ebook-kdp) | Créer un ebook ou un produit digital pour Amazon KDP, de la recherche de niche à la fiche produit, sans outil payant et sans style IA. |
 | [skills/redaction-administrative-dsfr](skills/redaction-administrative-dsfr) | Notes, comptes rendus, éléments de langage et mails pour le secteur public, et pages web conformes au Design System de l'État. |
 | [prompts/preferences-claude.md](prompts/preferences-claude.md) | Un texte à coller dans vos préférences Claude pour obtenir des réponses plus courtes, plus critiques et sans tics d'écriture IA. |
